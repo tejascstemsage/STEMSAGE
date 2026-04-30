@@ -1,7 +1,5 @@
-export default function Page() {
-  return (
-    <div className="min-h-screen flex items-center justify-center">
-      <h1 className="text-3xl font-bold">Coming Soon 🚀</h1>
-    </div>
-  );
+import ComingSoon from "@/components/ComingSoon";
+
+export default function Robotics() {
+  return <ComingSoon title="Cart" />;
 }
