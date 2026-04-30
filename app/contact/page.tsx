@@ -88,7 +88,7 @@ export default function Contact() {
       {/* Contact Info */}
       <div className="mt-8 text-center text-gray-700">
         <p>📧 stemsage.techworld.llp@gmail.com</p>
-        <p>📱 +91-XXXXXXXXXX</p>
+        <p>📱 +91-9922552891</p>
       </div>
     </section>
   );
